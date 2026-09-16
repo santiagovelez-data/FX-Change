@@ -23,8 +23,27 @@ Python version:
 
 Python 3.14.6
 
+Install the required libraries using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Dependencies
+
+This project uses the following external Python libraries:
+
+- Streamlit 1.64.0 - used to create the web application interface.
+- Requests 2.34.2 - used to make HTTP requests to the Frankfurter API.
+- Pandas 3.0.5 - used to organize exchange-rate data for visualization.
+- Altair 6.3.0 - used to create the exchange-rate trend chart.
+
+The standard Python libraries `datetime` and `json` are also used and do not need to be installed separately.
+
 ## How to Run the Program
 
 Run the following command in the terminal:
 
+```bash
 python -m streamlit run app.py
+```
