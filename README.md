@@ -1,8 +1,8 @@
 # <project title>
 
 ## Author
-Name: <Santiago Velez>
-Student ID: <14751465>
+<Name: Santiago Velez>
+<Student ID: 14751465>
 
 ## Description
 <This application allows user to convert currencies from and to a list of currencies. It also provides historical data and exchange rate trends for the last 10 years.>
