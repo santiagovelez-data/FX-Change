@@ -11,6 +11,7 @@ Student ID: <14751465>
 
 ## How to Setup
 <Clone the repository>
+<https://github.com/santiagovelez-data/FX-Change.git>
 <Python 3.14.6>
 
 
